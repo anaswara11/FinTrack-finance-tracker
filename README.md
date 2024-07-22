@@ -13,9 +13,9 @@ FinTrack is a personal finance management tool that allows users to track their 
 
 ## Tech Stack
 
-- **Frontend:** React
-- **Backend:** Firebase Firestore, Firebase Authentication
-- **Data Visualization:** Chart.js
+- **Frontend:** `React`
+- **Backend:** `Firebase Firestore` `Firebase Authentication`
+- **Data Visualization:** `Chart.js`
 
 ## Installation
 
